@@ -23,7 +23,7 @@ TEST*=PROD*
 TEST*=PROD*
 
 [VARIABLEVALUE]
-TEST*=PROD*
+silvano=wauser
 
 [VARTABLE]
 TEST*=PROD*
