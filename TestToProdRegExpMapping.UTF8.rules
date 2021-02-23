@@ -1,0 +1,44 @@
+#
+#----------------------------------------------------------------------------
+#Basic regular expression mapping.
+#For each section that you want to use, add the proper regular expressions as indicated in the provided examples.
+#Only "*" and "?" can be used as wildcard.
+
+[JOBSTREAM]
+TEST*=PROD*
+
+[JOB]
+TEST*=PROD*
+
+[WORKSTATION]
+TEST*=PROD*
+
+[EVENTRULE]
+TEST*=PROD*
+
+[PROMPT]
+TEST*=PROD*
+
+[RUNCYCLEGROUP]
+TEST*=PROD*
+
+[VARIABLEVALUE]
+TEST*=PROD*
+
+[VARTABLE]
+TEST*=PROD*
+
+[RESOURCE]
+TEST*=PROD*
+
+[CALENDAR]
+TEST*=PROD*
+
+[REFJOBSTREAM]
+TEST*=PROD*
+
+[REFJOB]
+TEST*=PROD*
+
+[FOLDER]
+TEST*=PROD*
